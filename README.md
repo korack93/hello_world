@@ -8,4 +8,5 @@ Este es un cambio en la nueva rama, siguiendo el tutroial de GitHub
 
 probando el git GUI
 
-Generando un problema merge 2
+Generando un problema merge 1
+enerando un problema merge 2
