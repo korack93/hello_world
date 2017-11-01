@@ -10,3 +10,6 @@ probando el git GUI
 
 Generando un problema merge 1
 enerando un problema merge 2
+ con visual studio code
+ hfyfty
+ gygyu
